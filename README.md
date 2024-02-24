@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KGutie
-- 👀 I’m interested in ... getting started in coding. 
-- 🌱 I’m currently learning ... HTML + CSS. I'm hoping to start JavaScript in January 2022. 
-- 💞️ I’m looking to collaborate on ... I'm not quite sure yet, but probably some fun retro games in makecode arcade.
+- 👀 I’m interested in ... learning the basics of HTML/CSS, Javascript and Python. 
+- 🌱 I’m currently retaking a HTML/CSS course in Scrimba to pick up on new information and tips to make cleaner code and understand how things work better, and I'll then jump into JS and Python.
+- I want to build a product site for Kayaking as my first big project. 
 
 <!---
 KGutie/KGutie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
